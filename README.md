@@ -1,6 +1,6 @@
 # Noise Blur Project
 
-![Top Image](/image.png "Image for Noise Blur Project")
+![Project Image](/public/image.png "Image for Noise Blur Project")
 This project, built with Next.js, introduces a visually appealing effect combining noise and blur to create a dynamic background for a web application. The core of this effect is implemented using SVG filters, specifically `feTurbulence` and `feBlend` (though `feBlend` is commented out in the current implementation).
 
 ## SVG Filters
