@@ -5,7 +5,7 @@ import { useState } from "react";
 export default function Home() {
   const [blurValue, setBlurValue] = useState("10px");
   const [baseFrequency, setBaseFrequency] = useState("0.65");
-  const [blendMode, setBlendMode] = useState("screen"); // Step 2: useState for blend mode
+  const [blendMode, setBlendMode] = useState("none"); // Step 2: useState for blend mode
 
   // Step 1: Array of blend modes
   const blendModes = [
